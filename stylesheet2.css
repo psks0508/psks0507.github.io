@@ -11,6 +11,8 @@ a {
     text-decoration: none;
 }
 
+
+
 /*floatの解除*/
 .clear {
     clear: left;
@@ -87,8 +89,13 @@ header {
     z-index: 10;
 }
 
-.logo {
+/*.logo {
     width: 124px;
+    margin-top: 20px;
+}*/
+
+.header-left h2 {
+    width: 100%;
     margin-top: 20px;
 }
 
