@@ -37,6 +37,7 @@ a {
     opacity: 0.7;
     font-size: 60px;
     letter-spacing: 5px;
+}
 
 
 .top-wrapper p {
@@ -88,11 +89,6 @@ header {
     top: 0;
     z-index: 10;
 }
-
-/*.logo {
-    width: 124px;
-    margin-top: 20px;
-}*/
 
 .header-left h2 {
     width: 100%;
